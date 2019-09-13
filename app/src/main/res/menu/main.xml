@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_icon"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/sort"
+        android:title="@string/action_settings"
+        app:showAsAction="always">
+        <menu>
+            <item android:title="By recently added"
+                android:id="@+id/action_sort_recent"/>
+            <item
+                android:id="@+id/action_sort_ascending"
+                android:title="By name" />
+        </menu>
+    </item>
+
+</menu>

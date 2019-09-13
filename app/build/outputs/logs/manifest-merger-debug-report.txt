@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c2e32939416dd0fe7fdffffd655cb2c9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e634db0be3e3c4556129062e5f57522\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\adb68893714118c7fd92f8caf74f8259\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\552b554ff6cec62f3eff4faf05f2823c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\2c9450f4659be53abb694a70a982a3ff\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\655b143211a50f5f29a3ec86439269a5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\164d275a8da35f3217b895055f123a5a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8809fa669449c57f60af24a579474f87\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5631ff6b3f2feb1c28cbe83004bb213\AndroidManifest.xml:17:1-22:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\849082c98cb200b3a4e9d3eef1e0b8cf\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.mosamabinomar:AndroidEqualizer:1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\AndroidEqualizer-1.0.aar\216641636315961e3b2f2dd23f5582c4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.0.aar\25e253ab2bd91c49eb3909375b17522a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0bc1099717d9b1bac4a9fb6e641bf29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\accc4cf68cb104e34543d40c4276e7cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f15198336899cca40fd3ba6899ae2e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb8b7241980ebd29ae7d7849a5a0b4de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7842dac86cc1089cb0e2e1fe644be27b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\31e4dba52f78411a1b661047e6e2f8fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7c54c4884ca617cca41987ab651f5034\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9a97cfa0031a538461292940de3cffca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\56bc2eef1556f48ede2e4a95e79f78a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\99e547cf35dc7c893cc2d24e4c96b0c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a49ef99bdf0d85bdb8c4986e45a0387d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\williamchart-2.2.aar\451536527b7b407a2835f82c344028f2\AndroidManifest.xml:2:1-10:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04e436f5b1f1996af76ec9ac4f001c21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\60da702dd913b9ca6924d0b17c6c95f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\724b62b2e475f22af5809858828b8906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\e91557e86657b1d6d06ff4819c67b5a3\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da373121d61911ffc17fdd73222435d8\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c2e32939416dd0fe7fdffffd655cb2c9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c2e32939416dd0fe7fdffffd655cb2c9\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\adb68893714118c7fd92f8caf74f8259\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\adb68893714118c7fd92f8caf74f8259\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\552b554ff6cec62f3eff4faf05f2823c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\552b554ff6cec62f3eff4faf05f2823c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\2c9450f4659be53abb694a70a982a3ff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\2c9450f4659be53abb694a70a982a3ff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\655b143211a50f5f29a3ec86439269a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\655b143211a50f5f29a3ec86439269a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\164d275a8da35f3217b895055f123a5a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\164d275a8da35f3217b895055f123a5a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8809fa669449c57f60af24a579474f87\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8809fa669449c57f60af24a579474f87\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\e91557e86657b1d6d06ff4819c67b5a3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\e91557e86657b1d6d06ff4819c67b5a3\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:19:9-40
+activity#example.com.refresh.activties.SplashActivty
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:screenOrientation
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:21:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:28:27-74
+activity#example.com.refresh.activties.MainActivity
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:31:9-34:59
+	android:screenOrientation
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:32:13-51
+activity#example.com.refresh.activties.EqualizeActivity
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:35:9-64
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:35:19-61
+service#example.com.refresh.services.BackgroundAudioService
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:37:9-40:39
+	android:enabled
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:38:13-60
+receiver#example.com.refresh.utils.OutgoingCallReciever
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:42:9-45:39
+	android:enabled
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:43:13-55
+activity#example.com.refresh.activties.LyricsActivity
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:51:13-49
+	android:parentActivityName
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:50:13-65
+	android:label
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:49:13-35
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:48:13-53
+service#example.com.refresh.notifications.MyFirebaseInstanceIDService
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:53:9-57:19
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:53:18-75
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:54:13-56:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:55:25-77
+service#example.com.refresh.notifications.MyFirebaseMessagingService
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:58:9-62:19
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:58:18-74
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:59:13-61:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:60:17-78
+	android:name
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml:60:25-75
+uses-sdk
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c2e32939416dd0fe7fdffffd655cb2c9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c2e32939416dd0fe7fdffffd655cb2c9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e634db0be3e3c4556129062e5f57522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e634db0be3e3c4556129062e5f57522\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\adb68893714118c7fd92f8caf74f8259\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\adb68893714118c7fd92f8caf74f8259\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\552b554ff6cec62f3eff4faf05f2823c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\552b554ff6cec62f3eff4faf05f2823c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\2c9450f4659be53abb694a70a982a3ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\2c9450f4659be53abb694a70a982a3ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\655b143211a50f5f29a3ec86439269a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\655b143211a50f5f29a3ec86439269a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\164d275a8da35f3217b895055f123a5a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\164d275a8da35f3217b895055f123a5a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8809fa669449c57f60af24a579474f87\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8809fa669449c57f60af24a579474f87\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5631ff6b3f2feb1c28cbe83004bb213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5631ff6b3f2feb1c28cbe83004bb213\AndroidManifest.xml:20:5-44
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\849082c98cb200b3a4e9d3eef1e0b8cf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\849082c98cb200b3a4e9d3eef1e0b8cf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.mosamabinomar:AndroidEqualizer:1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\AndroidEqualizer-1.0.aar\216641636315961e3b2f2dd23f5582c4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mosamabinomar:AndroidEqualizer:1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\AndroidEqualizer-1.0.aar\216641636315961e3b2f2dd23f5582c4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.0.aar\25e253ab2bd91c49eb3909375b17522a\AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\verticalseekbar-0.7.0.aar\25e253ab2bd91c49eb3909375b17522a\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0bc1099717d9b1bac4a9fb6e641bf29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0bc1099717d9b1bac4a9fb6e641bf29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\accc4cf68cb104e34543d40c4276e7cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\accc4cf68cb104e34543d40c4276e7cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f15198336899cca40fd3ba6899ae2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f15198336899cca40fd3ba6899ae2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb8b7241980ebd29ae7d7849a5a0b4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb8b7241980ebd29ae7d7849a5a0b4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7842dac86cc1089cb0e2e1fe644be27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7842dac86cc1089cb0e2e1fe644be27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\31e4dba52f78411a1b661047e6e2f8fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\31e4dba52f78411a1b661047e6e2f8fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7c54c4884ca617cca41987ab651f5034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7c54c4884ca617cca41987ab651f5034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9a97cfa0031a538461292940de3cffca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9a97cfa0031a538461292940de3cffca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\56bc2eef1556f48ede2e4a95e79f78a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\56bc2eef1556f48ede2e4a95e79f78a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\99e547cf35dc7c893cc2d24e4c96b0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\99e547cf35dc7c893cc2d24e4c96b0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a49ef99bdf0d85bdb8c4986e45a0387d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a49ef99bdf0d85bdb8c4986e45a0387d\AndroidManifest.xml:20:5-44
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\williamchart-2.2.aar\451536527b7b407a2835f82c344028f2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\williamchart-2.2.aar\451536527b7b407a2835f82c344028f2\AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04e436f5b1f1996af76ec9ac4f001c21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04e436f5b1f1996af76ec9ac4f001c21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\60da702dd913b9ca6924d0b17c6c95f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\60da702dd913b9ca6924d0b17c6c95f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\724b62b2e475f22af5809858828b8906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\724b62b2e475f22af5809858828b8906\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\e91557e86657b1d6d06ff4819c67b5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\e91557e86657b1d6d06ff4819c67b5a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da373121d61911ffc17fdd73222435d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da373121d61911ffc17fdd73222435d8\AndroidManifest.xml:20:5-44
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Testing\downloadpj\Refresh-Music-Player\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.4.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.4.0.aar\55a74a32438a670db9d99afe053ceb07\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\61cf960fedba2254e28382dbe6d2c803\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\75738966c867e27939152325dd8f880f\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\f55eba42a3c0146a6467f982faa38866\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.0] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.0.aar\74743b6dbf118f879b17275ddd0f14bf\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\5a44e3ca6507afaf0be5372224d45079\AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c7e8ea5db9f0e1f5a67f2c60a2b78346\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Green Hackers\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a6afcd3d277c99eb411da6c3fa7f5b8b\AndroidManifest.xml:24:13-58
